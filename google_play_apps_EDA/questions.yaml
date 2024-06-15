@@ -1,11 +1,27 @@
 Questions:
-1. Which category has the maximum number of apps (more dense)?
-2. Which are the top rated apps? - Top 10
-3. Which category apps have maximum reviews?
-4. Average size of apps with maximum installs and rating and reviews?
-5. Highest paid app and it's review, install and rating count?
-6. App count for each Android Version?
-7. Worst rated app / category / categories
-8. maximum installs apps had
-9. which content rating has maximum installs and reviews and best ratings
-10. 
+1. **Which category has the maximum number of apps (most dense)?**
+
+2. **Which are the top-10 rated apps?**
+3. **Which category has the most top rated apps?**
+3. **Which category apps have the maximum reviews?**
+
+4. **What is the average size of apps with the maximum installs, ratings, and reviews?**
+5. **What is the highest paid app and its review, install, and rating count?**
+6. **What is the app count for each Android version?**
+7. **What is the worst-rated app / category / categories?**
+8. **What are the apps with the maximum installs?**
+9. **Which content rating has the maximum installs and reviews, and the best ratings?**
+10. **What is the distribution of app prices?**
+11. **What is the relationship between app size and rating?**
+12. **How does the number of reviews vary across different categories?**
+13. **What is the trend of app ratings over time (based on the 'Last Updated' column)?**
+14. **Which apps have the highest number of installs in the "Games" category?**
+15. **What is the average rating per app category?**
+16. **What is the median number of reviews for each category?**
+17. **How does the average price vary across different app categories?**
+18. **Which app categories have the largest average size?**
+19. **What is the relationship between app price and rating?**
+20. **Which categories have the highest percentage of paid apps?**
+---
+
+# Interesting thing is that the apps that have a rating 5.0 are those whose reviews and installs are quite less than other apps, as the installs and reviews increase, often some people give a little less rating to the app. Causing the overall review to go less than 5.0
