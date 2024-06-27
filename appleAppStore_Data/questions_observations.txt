@@ -1,0 +1,22 @@
+Checking the data manually:
+So, we have 20 columns in the data:
+1. App ID:
+2. App Name:
+3. AppStore URL:
+4. Primary Genre
+5. Content Rating
+6. Size Bytes 
+7. Required IOS Version
+8. Released Date
+9. Update Date
+10. Version (App ka Version)
+11. Price
+12. Currency
+13. Free (Boolean)
+14. Developer ID
+15. Developer
+16. Developer URL
+17. Average User Rating
+18. Reviews (Count)
+19. Current Version Score (Rating I guess)
+20. Current Version Reviews (Count of reviews for current version of App)
